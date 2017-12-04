@@ -1,3 +1,9 @@
+0.4.7
+-----
+
+- Added explicit unary not operator to argagg::option_result and
+  argagg::option_results (see issue #15)
+
 0.4.6
 -----
 
